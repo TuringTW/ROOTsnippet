@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->Fill(${1:});
+]]></content>
+	<tabTrigger>fill</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>->Fill</description>
+</snippet>

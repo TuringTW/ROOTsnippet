@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->Exp();
+]]></content>
+	<tabTrigger>exp</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>->exp</description>
+</snippet>

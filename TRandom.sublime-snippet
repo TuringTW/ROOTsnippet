@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TRandom * ${1:r} = new TRandom();
+]]></content>
+	<tabTrigger>TRandom</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>TRandom</description>
+</snippet>

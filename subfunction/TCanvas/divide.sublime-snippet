@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->Divide(${1:2}, ${1:2});
+]]></content>
+	<tabTrigger>divide</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>Divide</description>
+</snippet>

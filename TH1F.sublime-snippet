@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TH1F * ${1:h1} = new TH1F("$1", "${2:$1}", ${3:100}, ${4:0}, ${5:100});
+]]></content>
+	<tabTrigger>TH1F</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>TH1F</description>
+</snippet>

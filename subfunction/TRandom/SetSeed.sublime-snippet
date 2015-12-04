@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->SetSeed(${1:123});
+]]></content>
+	<tabTrigger>setseed</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>->setseed</description>
+</snippet>

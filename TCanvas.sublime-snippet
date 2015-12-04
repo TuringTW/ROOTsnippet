@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TCanvas * ${1:c1} = new TCanvas("$1", "${2:$1}", ${3:800}, ${4:500});
+]]></content>
+	<tabTrigger>TCanvas</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>TCanvas</description>
+</snippet>

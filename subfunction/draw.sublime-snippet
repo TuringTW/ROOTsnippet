@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->Draw(${1:"${2:same}"});
+]]></content>
+	<tabTrigger>draw</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>->Draw</description>
+</snippet>

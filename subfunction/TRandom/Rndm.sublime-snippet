@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+->Rndm();
+]]></content>
+	<tabTrigger>rndm</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>->Rndm</description>
+</snippet>

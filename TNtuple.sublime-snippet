@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+TNtuple * ${1:ntuple} = new TNtuple("$1", "${2:$1}", "${3:x}");
+]]></content>
+	<tabTrigger>TNtuple</tabTrigger>
+	<scope>source.c++, source.cuda-c++</scope>
+	<description>TNtuple</description>
+</snippet>
